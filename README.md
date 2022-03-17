@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Santiago101604
-- 👀 I’m interested in Python, C++, Javascript, HTML, and Lua 
+- 👀 I’m interested in Python, C++, Javascript, and HTML.
 - 🌱 I’m currently learning Python.
 
 <!---
